@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression_Pack]">
+  <test name="Suit1(failed)">
+    <classes>
+      <class name="Scripts.TestNG">
+        <methods>
+          <include name="main"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Scripts.TestNG -->
+    </classes>
+  </test> <!-- Suit1(failed) -->
+</suite> <!-- Failed suite [Regression_Pack] -->

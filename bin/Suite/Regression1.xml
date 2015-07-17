@@ -1,0 +1,7 @@
+<suite name="Regression_Pack">
+<test name= "Suit1">
+<classes>
+	<class name="Scripts.TestNG"/>
+</classes>
+</test>
+</suite>
